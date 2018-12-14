@@ -1,1 +1,10 @@
 Tcl scripts for fax
+
+app_fax_detect.2.1.2.3.zip
+This script answers an incoming call, plays a prompt (except when in 'connect-first' mode) - eg. "Hi, press 1 for voice or 2 for fax!" and either makes an outgoing voice or fax call.
+Please refer below link for More Information about Fax Detect Script
+https://www.cisco.com/c/en/us/td/docs/ios-xml/ios/voice/fax/configuration/15-mt/vf-15-mt-book/Configuring_Fax_Detection.pdf
+
+On-Ramp and Off-Ramp TCL Scripts 
+Please refer below link for faxmail onramp and offramp
+https://www.cisco.com/c/en/us/td/docs/voice_ip_comm/unity_exp/rel3_1/administration/guide/voicemail/fxgatewy.html
