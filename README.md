@@ -8,9 +8,6 @@ This is sample TCL IVR script which describes how to toggle alternatively with t
 app-callback.1.0.zip:
 This is a demo script to provide a callback feature to user and connect the user to meeting bridges based upon the confirmation of user.User can confirm by pressing DTMF key as an input.
 
-its-CISCO.2.0.3.0.zip:
-This is a TCL IVR script for the IOS Telephony Service and Call Manager (CM) offload scenario. The IVR script plays a welcome prompt to the user and prompts the user to enter a destination number when the user dials the auto-attendant number...
-
 GTD Manipulation Sample Script.zip :
 This is a demo script which explains about the fields that can be modified through Callinfo parameter
 
