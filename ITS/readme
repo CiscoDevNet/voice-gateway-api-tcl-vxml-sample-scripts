@@ -1,1 +1,2 @@
-
+its-CISCO.x.x.x.x.zip:
+This is a TCL IVR script for the IOS Telephony Service and Call Manager (CM) offload scenario. The IVR script plays a welcome prompt to the user and prompts the user to enter a destination number when the user dials the auto-attendant number...
