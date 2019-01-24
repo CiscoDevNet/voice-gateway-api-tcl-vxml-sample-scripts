@@ -1,3 +1,1 @@
-This TCL sample script which monitors Media Inactive Call.Once Media Inactive is detected in H.323 or Sip call-legs on gateways,it will reports the situation to the IVR application.
-
-
+This is a sample TCL script which hunts the dial-peers that matches destination number, when a call receives other than ls_000(like ls_002 or ls_007),call will get routed through the next matched dial-peer to the destination.
